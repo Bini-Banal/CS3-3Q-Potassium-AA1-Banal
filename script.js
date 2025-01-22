@@ -1,5 +1,5 @@
 const Pi = 3.14;
-let R = 3.678e6;
+let R = 6.378e6;
 let C = 2 * Pi * R;
 let A = 4 * Pi * (R ** 2);
 let V = 4 / 3 * Pi * (R ** 3);
